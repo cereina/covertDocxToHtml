@@ -1,0 +1,10 @@
+Download Python: https://www.python.org/downloads/
+Run this from Window PowerShell
+pip install python-docx
+python docx_to_gcweb_html_extended.py wet_boew_gcweb_style_sample_extended.docx -o extended.html
+
+
+Node.js
+npm init -y
+npm i mammoth cheerio
+node docx_to_gcweb_html_extended.js wet_boew_gcweb_style_sample_extended.docx -o extended.html
